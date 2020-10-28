@@ -1,0 +1,11 @@
+# Data.
+movie-review-data.csv
+
+# Pycharm project.
+.idea
+
+# Python files.
+__pycache__
+
+# Output.
+output
